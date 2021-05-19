@@ -1,0 +1,140 @@
+2021-02-08 14:39:27,187 [main] INFO setUp - User Email is entered
+2021-02-08 14:39:27,378 [main] INFO setUp - User Password is entered
+2021-02-08 14:39:34,637 [main] INFO setUp - Clicked on Login button
+2021-02-08 14:39:38,163 [main] INFO setUp - Clicked on Logout button
+2021-02-09 15:43:33,198 [main] INFO setUp - User Email is entered
+2021-02-09 15:43:33,404 [main] INFO setUp - User Password is entered
+2021-02-09 15:43:41,393 [main] INFO setUp - Clicked on Login button
+2021-02-09 15:43:44,845 [main] INFO setUp - Clicked on Logout button
+2021-02-09 15:50:22,163 [main] INFO setUp - User Email is entered
+2021-02-09 15:50:22,335 [main] INFO setUp - User Password is entered
+2021-02-09 15:50:36,368 [main] INFO setUp - Clicked on Login button
+2021-02-09 15:50:41,158 [main] INFO setUp - Clicked on Logout button
+2021-02-17 10:21:47,492 [main] INFO setUp - User Email is entered
+2021-02-17 10:21:47,762 [main] INFO setUp - User Password is entered
+2021-02-17 10:21:56,235 [main] INFO setUp - Clicked on Login button
+2021-02-17 10:22:00,772 [main] INFO setUp - Clicked on Logout button
+2021-02-17 10:53:33,181 [main] INFO setUp - User Email is entered
+2021-02-17 10:53:33,352 [main] INFO setUp - User Password is entered
+2021-02-17 10:53:44,483 [main] INFO setUp - Clicked on Login button
+2021-02-17 10:53:44,517 [main] INFO setUp - Test Passsed
+2021-02-17 10:53:47,433 [main] INFO setUp - Clicked on Logout button
+2021-02-17 10:54:45,558 [main] INFO setUp - User Email is entered
+2021-02-17 10:54:45,735 [main] INFO setUp - User Password is entered
+2021-02-17 10:54:55,961 [main] INFO setUp - Clicked on Login button
+2021-02-17 10:54:55,983 [main] INFO setUp - Test Failed
+2021-02-17 10:54:59,044 [main] INFO setUp - Clicked on Logout button
+2021-02-17 10:55:53,038 [main] INFO setUp - User Email is entered
+2021-02-17 10:55:53,212 [main] INFO setUp - User Password is entered
+2021-02-17 10:56:01,695 [main] INFO setUp - Clicked on Login button
+2021-02-17 10:57:00,705 [main] INFO setUp - User Email is entered
+2021-02-17 10:57:00,904 [main] INFO setUp - User Password is entered
+2021-02-17 10:57:08,007 [main] INFO setUp - Clicked on Login button
+2021-02-17 11:49:27,245 [main] INFO setUp - User Email is entered
+2021-02-17 11:49:27,512 [main] INFO setUp - User Password is entered
+2021-02-17 11:49:36,683 [main] INFO setUp - Clicked on Login button
+2021-02-17 11:49:36,705 [main] INFO setUp - Test Failed
+2021-02-17 11:49:40,897 [main] INFO setUp - Clicked on Logout button
+2021-02-17 11:52:09,558 [main] INFO setUp - User Email is entered
+2021-02-17 11:52:09,735 [main] INFO setUp - User Password is entered
+2021-02-17 11:52:19,022 [main] INFO setUp - Clicked on Login button
+2021-02-17 11:53:50,503 [main] INFO setUp - User Email is entered
+2021-02-17 11:53:50,691 [main] INFO setUp - User Password is entered
+2021-02-17 11:54:02,133 [main] INFO setUp - Clicked on Login button
+2021-02-17 11:54:06,603 [main] INFO setUp - Clicked on Logout button
+2021-02-17 11:55:46,028 [main] INFO setUp - User Email is entered
+2021-02-17 11:55:46,195 [main] INFO setUp - User Password is entered
+2021-02-17 11:55:53,298 [main] INFO setUp - Clicked on Login button
+2021-02-17 11:55:53,315 [main] INFO setUp - Title is verified
+2021-02-17 11:55:56,873 [main] INFO setUp - Clicked on Logout button
+2021-02-17 12:30:47,346 [main] INFO setUp - User Email is entered
+2021-02-17 12:30:47,512 [main] INFO setUp - User Password is entered
+2021-02-17 12:30:54,442 [main] INFO setUp - Clicked on Login button
+2021-02-17 12:30:57,900 [main] INFO setUp - Test is Passed
+2021-02-17 15:24:18,506 [main] INFO setUp - admin
+2021-02-17 15:24:18,736 [main] INFO setUp - User Password is entered
+2021-02-17 15:24:34,884 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:24:37,569 [main] INFO setUp - Test is Passed
+2021-02-17 15:24:37,817 [main] INFO setUp - ADMIN
+2021-02-17 15:24:37,972 [main] INFO setUp - User Password is entered
+2021-02-17 15:24:38,094 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:26:26,378 [main] INFO setUp - admin
+2021-02-17 15:26:26,550 [main] INFO setUp - User Password is entered
+2021-02-17 15:26:39,352 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:26:41,649 [main] INFO setUp - Test is Passed
+2021-02-17 15:26:41,832 [main] INFO setUp - ADMIN
+2021-02-17 15:26:42,047 [main] INFO setUp - User Password is entered
+2021-02-17 15:26:42,196 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:26:42,214 [main] INFO setUp - Test is Failed
+2021-02-17 15:26:42,400 [main] INFO setUp - admin12
+2021-02-17 15:26:42,520 [main] INFO setUp - User Password is entered
+2021-02-17 15:26:43,218 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:26:43,231 [main] INFO setUp - Test is Failed
+2021-02-17 15:26:43,422 [main] INFO setUp - 123Admin
+2021-02-17 15:26:43,581 [main] INFO setUp - User Password is entered
+2021-02-17 15:26:44,505 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:26:44,518 [main] INFO setUp - Test is Failed
+2021-02-17 15:26:44,697 [main] INFO setUp - kavit123
+2021-02-17 15:26:44,852 [main] INFO setUp - User Password is entered
+2021-02-17 15:26:46,406 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:26:46,419 [main] INFO setUp - Test is Failed
+2021-02-17 15:27:53,735 [main] INFO setUp - admin
+2021-02-17 15:27:53,902 [main] INFO setUp - User Password is entered
+2021-02-17 15:28:04,267 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:28:08,871 [main] INFO setUp - Test is Passed
+2021-02-17 15:28:09,051 [main] INFO setUp - ADMIN
+2021-02-17 15:28:09,205 [main] INFO setUp - User Password is entered
+2021-02-17 15:28:09,285 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:28:09,294 [main] INFO setUp - Test is Failed
+2021-02-17 15:28:09,450 [main] INFO setUp - admin12
+2021-02-17 15:28:09,570 [main] INFO setUp - User Password is entered
+2021-02-17 15:28:10,235 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:28:10,245 [main] INFO setUp - Test is Failed
+2021-02-17 15:28:10,423 [main] INFO setUp - 123Admin
+2021-02-17 15:28:10,572 [main] INFO setUp - User Password is entered
+2021-02-17 15:28:10,648 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:28:10,659 [main] INFO setUp - Test is Failed
+2021-02-17 15:28:10,813 [main] INFO setUp - kavit123
+2021-02-17 15:28:10,933 [main] INFO setUp - User Password is entered
+2021-02-17 15:28:11,821 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:28:11,835 [main] INFO setUp - Test is Failed
+2021-02-17 15:31:59,172 [main] INFO setUp - admin
+2021-02-17 15:31:59,337 [main] INFO setUp - User Password is entered
+2021-02-17 15:32:10,445 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:32:13,132 [main] INFO setUp - Test is Passed
+2021-02-17 15:32:16,354 [main] INFO setUp - ADMIN
+2021-02-17 15:32:16,513 [main] INFO setUp - User Password is entered
+2021-02-17 15:32:17,211 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:32:17,225 [main] INFO setUp - Test is Failed
+2021-02-17 15:32:20,433 [main] INFO setUp - admin12
+2021-02-17 15:32:20,590 [main] INFO setUp - User Password is entered
+2021-02-17 15:32:21,358 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:32:21,373 [main] INFO setUp - Test is Failed
+2021-02-17 15:32:24,568 [main] INFO setUp - 123Admin
+2021-02-17 15:32:24,716 [main] INFO setUp - User Password is entered
+2021-02-17 15:32:25,528 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:32:25,543 [main] INFO setUp - Test is Failed
+2021-02-17 15:32:28,828 [main] INFO setUp - kavit123
+2021-02-17 15:32:28,978 [main] INFO setUp - User Password is entered
+2021-02-17 15:32:29,717 [main] INFO setUp - Clicked on Login button
+2021-02-17 15:32:29,732 [main] INFO setUp - Test is Failed
+2021-02-18 15:22:54,023 [main] INFO setUp - admin
+2021-02-18 15:22:54,636 [main] INFO setUp - User Password is entered
+2021-02-18 15:23:11,602 [main] INFO setUp - Clicked on Login button
+2021-02-18 15:23:16,348 [main] INFO setUp - Test is Passed
+2021-02-18 15:23:19,662 [main] INFO setUp - ADMIN
+2021-02-18 15:23:19,873 [main] INFO setUp - User Password is entered
+2021-02-18 15:23:21,868 [main] INFO setUp - Clicked on Login button
+2021-02-18 15:23:21,887 [main] INFO setUp - Test is Failed
+2021-02-18 15:23:25,145 [main] INFO setUp - admin12
+2021-02-18 15:23:25,317 [main] INFO setUp - User Password is entered
+2021-02-18 15:23:26,366 [main] INFO setUp - Clicked on Login button
+2021-02-18 15:23:26,383 [main] INFO setUp - Test is Failed
+2021-02-18 15:23:29,660 [main] INFO setUp - 123Admin
+2021-02-18 15:23:29,848 [main] INFO setUp - User Password is entered
+2021-02-18 15:23:30,512 [main] INFO setUp - Clicked on Login button
+2021-02-18 15:23:30,525 [main] INFO setUp - Test is Failed
+2021-02-18 15:23:33,724 [main] INFO setUp - kavit123
+2021-02-18 15:23:33,897 [main] INFO setUp - User Password is entered
+2021-02-18 15:23:34,609 [main] INFO setUp - Clicked on Login button
+2021-02-18 15:23:34,622 [main] INFO setUp - Test is Failed

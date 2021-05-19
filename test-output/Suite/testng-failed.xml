@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="functional(failed)">
+    <classes>
+      <class name="testNgByRahul.AssertionInTestNg">
+        <methods>
+          <include name="login_test"/>
+          <include name="reg_test"/>
+        </methods>
+      </class> <!-- testNgByRahul.AssertionInTestNg -->
+    </classes>
+  </test> <!-- functional(failed) -->
+  <test thread-count="5" name="Smoke(failed)">
+    <classes>
+      <class name="testNgByRahul.TestCase2">
+        <methods>
+          <include name="Search_test"/>
+        </methods>
+      </class> <!-- testNgByRahul.TestCase2 -->
+    </classes>
+  </test> <!-- Smoke(failed) -->
+  <test thread-count="5" name="Regresion(failed)">
+    <classes>
+      <class name="testNgByRahul.TestCase3">
+        <methods>
+          <include name="title_test"/>
+        </methods>
+      </class> <!-- testNgByRahul.TestCase3 -->
+    </classes>
+  </test> <!-- Regresion(failed) -->
+</suite> <!-- Failed suite [Suite] -->

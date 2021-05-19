@@ -1,0 +1,140 @@
+2021-02-08 14:39:27,187 - setUp -INFO - User Email is entered
+2021-02-08 14:39:27,378 - setUp -INFO - User Password is entered
+2021-02-08 14:39:34,637 - setUp -INFO - Clicked on Login button
+2021-02-08 14:39:38,163 - setUp -INFO - Clicked on Logout button
+2021-02-09 15:43:33,198 - setUp -INFO - User Email is entered
+2021-02-09 15:43:33,404 - setUp -INFO - User Password is entered
+2021-02-09 15:43:41,393 - setUp -INFO - Clicked on Login button
+2021-02-09 15:43:44,845 - setUp -INFO - Clicked on Logout button
+2021-02-09 15:50:22,163 - setUp -INFO - User Email is entered
+2021-02-09 15:50:22,335 - setUp -INFO - User Password is entered
+2021-02-09 15:50:36,368 - setUp -INFO - Clicked on Login button
+2021-02-09 15:50:41,158 - setUp -INFO - Clicked on Logout button
+2021-02-17 10:21:47,492 - setUp -INFO - User Email is entered
+2021-02-17 10:21:47,762 - setUp -INFO - User Password is entered
+2021-02-17 10:21:56,235 - setUp -INFO - Clicked on Login button
+2021-02-17 10:22:00,772 - setUp -INFO - Clicked on Logout button
+2021-02-17 10:53:33,181 - setUp -INFO - User Email is entered
+2021-02-17 10:53:33,352 - setUp -INFO - User Password is entered
+2021-02-17 10:53:44,483 - setUp -INFO - Clicked on Login button
+2021-02-17 10:53:44,517 - setUp -INFO - Test Passsed
+2021-02-17 10:53:47,433 - setUp -INFO - Clicked on Logout button
+2021-02-17 10:54:45,558 - setUp -INFO - User Email is entered
+2021-02-17 10:54:45,735 - setUp -INFO - User Password is entered
+2021-02-17 10:54:55,961 - setUp -INFO - Clicked on Login button
+2021-02-17 10:54:55,983 - setUp -INFO - Test Failed
+2021-02-17 10:54:59,044 - setUp -INFO - Clicked on Logout button
+2021-02-17 10:55:53,038 - setUp -INFO - User Email is entered
+2021-02-17 10:55:53,212 - setUp -INFO - User Password is entered
+2021-02-17 10:56:01,695 - setUp -INFO - Clicked on Login button
+2021-02-17 10:57:00,705 - setUp -INFO - User Email is entered
+2021-02-17 10:57:00,904 - setUp -INFO - User Password is entered
+2021-02-17 10:57:08,007 - setUp -INFO - Clicked on Login button
+2021-02-17 11:49:27,245 - setUp -INFO - User Email is entered
+2021-02-17 11:49:27,512 - setUp -INFO - User Password is entered
+2021-02-17 11:49:36,683 - setUp -INFO - Clicked on Login button
+2021-02-17 11:49:36,705 - setUp -INFO - Test Failed
+2021-02-17 11:49:40,897 - setUp -INFO - Clicked on Logout button
+2021-02-17 11:52:09,558 - setUp -INFO - User Email is entered
+2021-02-17 11:52:09,735 - setUp -INFO - User Password is entered
+2021-02-17 11:52:19,022 - setUp -INFO - Clicked on Login button
+2021-02-17 11:53:50,503 - setUp -INFO - User Email is entered
+2021-02-17 11:53:50,691 - setUp -INFO - User Password is entered
+2021-02-17 11:54:02,133 - setUp -INFO - Clicked on Login button
+2021-02-17 11:54:06,603 - setUp -INFO - Clicked on Logout button
+2021-02-17 11:55:46,028 - setUp -INFO - User Email is entered
+2021-02-17 11:55:46,195 - setUp -INFO - User Password is entered
+2021-02-17 11:55:53,298 - setUp -INFO - Clicked on Login button
+2021-02-17 11:55:53,315 - setUp -INFO - Title is verified
+2021-02-17 11:55:56,873 - setUp -INFO - Clicked on Logout button
+2021-02-17 12:30:47,346 - setUp -INFO - User Email is entered
+2021-02-17 12:30:47,512 - setUp -INFO - User Password is entered
+2021-02-17 12:30:54,442 - setUp -INFO - Clicked on Login button
+2021-02-17 12:30:57,900 - setUp -INFO - Test is Passed
+2021-02-17 15:24:18,506 - setUp -INFO - admin
+2021-02-17 15:24:18,736 - setUp -INFO - User Password is entered
+2021-02-17 15:24:34,884 - setUp -INFO - Clicked on Login button
+2021-02-17 15:24:37,569 - setUp -INFO - Test is Passed
+2021-02-17 15:24:37,817 - setUp -INFO - ADMIN
+2021-02-17 15:24:37,972 - setUp -INFO - User Password is entered
+2021-02-17 15:24:38,094 - setUp -INFO - Clicked on Login button
+2021-02-17 15:26:26,378 - setUp -INFO - admin
+2021-02-17 15:26:26,550 - setUp -INFO - User Password is entered
+2021-02-17 15:26:39,352 - setUp -INFO - Clicked on Login button
+2021-02-17 15:26:41,649 - setUp -INFO - Test is Passed
+2021-02-17 15:26:41,832 - setUp -INFO - ADMIN
+2021-02-17 15:26:42,047 - setUp -INFO - User Password is entered
+2021-02-17 15:26:42,196 - setUp -INFO - Clicked on Login button
+2021-02-17 15:26:42,214 - setUp -INFO - Test is Failed
+2021-02-17 15:26:42,400 - setUp -INFO - admin12
+2021-02-17 15:26:42,520 - setUp -INFO - User Password is entered
+2021-02-17 15:26:43,218 - setUp -INFO - Clicked on Login button
+2021-02-17 15:26:43,231 - setUp -INFO - Test is Failed
+2021-02-17 15:26:43,422 - setUp -INFO - 123Admin
+2021-02-17 15:26:43,581 - setUp -INFO - User Password is entered
+2021-02-17 15:26:44,505 - setUp -INFO - Clicked on Login button
+2021-02-17 15:26:44,518 - setUp -INFO - Test is Failed
+2021-02-17 15:26:44,697 - setUp -INFO - kavit123
+2021-02-17 15:26:44,852 - setUp -INFO - User Password is entered
+2021-02-17 15:26:46,406 - setUp -INFO - Clicked on Login button
+2021-02-17 15:26:46,419 - setUp -INFO - Test is Failed
+2021-02-17 15:27:53,735 - setUp -INFO - admin
+2021-02-17 15:27:53,902 - setUp -INFO - User Password is entered
+2021-02-17 15:28:04,267 - setUp -INFO - Clicked on Login button
+2021-02-17 15:28:08,871 - setUp -INFO - Test is Passed
+2021-02-17 15:28:09,051 - setUp -INFO - ADMIN
+2021-02-17 15:28:09,205 - setUp -INFO - User Password is entered
+2021-02-17 15:28:09,285 - setUp -INFO - Clicked on Login button
+2021-02-17 15:28:09,294 - setUp -INFO - Test is Failed
+2021-02-17 15:28:09,450 - setUp -INFO - admin12
+2021-02-17 15:28:09,570 - setUp -INFO - User Password is entered
+2021-02-17 15:28:10,235 - setUp -INFO - Clicked on Login button
+2021-02-17 15:28:10,245 - setUp -INFO - Test is Failed
+2021-02-17 15:28:10,423 - setUp -INFO - 123Admin
+2021-02-17 15:28:10,572 - setUp -INFO - User Password is entered
+2021-02-17 15:28:10,648 - setUp -INFO - Clicked on Login button
+2021-02-17 15:28:10,659 - setUp -INFO - Test is Failed
+2021-02-17 15:28:10,813 - setUp -INFO - kavit123
+2021-02-17 15:28:10,933 - setUp -INFO - User Password is entered
+2021-02-17 15:28:11,821 - setUp -INFO - Clicked on Login button
+2021-02-17 15:28:11,835 - setUp -INFO - Test is Failed
+2021-02-17 15:31:59,172 - setUp -INFO - admin
+2021-02-17 15:31:59,337 - setUp -INFO - User Password is entered
+2021-02-17 15:32:10,445 - setUp -INFO - Clicked on Login button
+2021-02-17 15:32:13,132 - setUp -INFO - Test is Passed
+2021-02-17 15:32:16,354 - setUp -INFO - ADMIN
+2021-02-17 15:32:16,513 - setUp -INFO - User Password is entered
+2021-02-17 15:32:17,211 - setUp -INFO - Clicked on Login button
+2021-02-17 15:32:17,225 - setUp -INFO - Test is Failed
+2021-02-17 15:32:20,433 - setUp -INFO - admin12
+2021-02-17 15:32:20,590 - setUp -INFO - User Password is entered
+2021-02-17 15:32:21,358 - setUp -INFO - Clicked on Login button
+2021-02-17 15:32:21,373 - setUp -INFO - Test is Failed
+2021-02-17 15:32:24,568 - setUp -INFO - 123Admin
+2021-02-17 15:32:24,716 - setUp -INFO - User Password is entered
+2021-02-17 15:32:25,528 - setUp -INFO - Clicked on Login button
+2021-02-17 15:32:25,543 - setUp -INFO - Test is Failed
+2021-02-17 15:32:28,828 - setUp -INFO - kavit123
+2021-02-17 15:32:28,978 - setUp -INFO - User Password is entered
+2021-02-17 15:32:29,717 - setUp -INFO - Clicked on Login button
+2021-02-17 15:32:29,732 - setUp -INFO - Test is Failed
+2021-02-18 15:22:54,023 - setUp -INFO - admin
+2021-02-18 15:22:54,636 - setUp -INFO - User Password is entered
+2021-02-18 15:23:11,602 - setUp -INFO - Clicked on Login button
+2021-02-18 15:23:16,348 - setUp -INFO - Test is Passed
+2021-02-18 15:23:19,662 - setUp -INFO - ADMIN
+2021-02-18 15:23:19,873 - setUp -INFO - User Password is entered
+2021-02-18 15:23:21,868 - setUp -INFO - Clicked on Login button
+2021-02-18 15:23:21,887 - setUp -INFO - Test is Failed
+2021-02-18 15:23:25,145 - setUp -INFO - admin12
+2021-02-18 15:23:25,317 - setUp -INFO - User Password is entered
+2021-02-18 15:23:26,366 - setUp -INFO - Clicked on Login button
+2021-02-18 15:23:26,383 - setUp -INFO - Test is Failed
+2021-02-18 15:23:29,660 - setUp -INFO - 123Admin
+2021-02-18 15:23:29,848 - setUp -INFO - User Password is entered
+2021-02-18 15:23:30,512 - setUp -INFO - Clicked on Login button
+2021-02-18 15:23:30,525 - setUp -INFO - Test is Failed
+2021-02-18 15:23:33,724 - setUp -INFO - kavit123
+2021-02-18 15:23:33,897 - setUp -INFO - User Password is entered
+2021-02-18 15:23:34,609 - setUp -INFO - Clicked on Login button
+2021-02-18 15:23:34,622 - setUp -INFO - Test is Failed

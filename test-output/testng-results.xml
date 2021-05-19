@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-25T20:35:55 IST" name="Default suite" finished-at="2021-04-25T20:35:56 IST" duration-ms="1551">
+    <groups>
+    </groups>
+    <test started-at="2021-04-25T20:35:55 IST" name="Default test" finished-at="2021-04-25T20:35:56 IST" duration-ms="1551">
+      <class name="test.TestDemo">
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:test.TestDemo@1700915]" started-at="2021-04-25T20:35:56 IST" name="loginTest" data-provider="LoginData" finished-at="2021-04-25T20:35:56 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercury1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:test.TestDemo@1700915]" started-at="2021-04-25T20:35:56 IST" name="loginTest" data-provider="LoginData" finished-at="2021-04-25T20:35:56 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercury2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:test.TestDemo@1700915]" started-at="2021-04-25T20:35:56 IST" name="loginTest" data-provider="LoginData" finished-at="2021-04-25T20:35:56 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercury3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:test.TestDemo@1700915]" started-at="2021-04-25T20:35:56 IST" name="loginTest" data-provider="LoginData" finished-at="2021-04-25T20:35:56 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:test.TestDemo@1700915]" started-at="2021-04-25T20:35:56 IST" name="loginTest" data-provider="LoginData" finished-at="2021-04-25T20:35:56 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercury123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:test.TestDemo@1700915]" started-at="2021-04-25T20:35:56 IST" name="loginTest" data-provider="LoginData" finished-at="2021-04-25T20:35:56 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mer123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mer123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:test.TestDemo@1700915]" started-at="2021-04-25T20:35:56 IST" name="loginTest" data-provider="LoginData" finished-at="2021-04-25T20:35:56 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[merc123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[merc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- test.TestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
