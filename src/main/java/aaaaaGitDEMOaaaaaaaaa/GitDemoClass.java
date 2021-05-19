@@ -3,6 +3,9 @@ package aaaaaGitDEMOaaaaaaaaa;
 public class GitDemoClass {
 
 	public static void main(String[] args) {
-		System.out.println("This is real time project");
+		String name="Git Demo";
+		StringBuffer sb=new StringBuffer(name);
+		StringBuffer rev=sb.reverse();
+		System.out.println(rev);
 	}
 }
